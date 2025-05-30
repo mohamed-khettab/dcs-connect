@@ -1,141 +1,22 @@
 [
   {
-    "title": "Robotics Club",
-    "link": "https://example.com/robotics-club",
-    "description": "Join our Robotics Club to design, build, and program robots for various competitions. No experience required!",
-    "tags": ["Freshman", "Sophomore", "Junior", "Senior", "STEM", "Open To All", "Weekly", "Free"],
-    "location": "School XYZ, Anytown, USA",
+    "title": "Test",
+    "link": "https://github.com/mohamed-khettab/scioto-connect",
+    "description": "ajsldkfjaskldjf",
+    "tags": [
+      "Sophomore",
+      "Junior",
+      "STEM",
+      "Open To All",
+      "Bi-weekly",
+      "Paid"
+    ],
+    "location": "None",
     "contact": [
       {
-        "name": "John Smith",
-        "email": "john@example.com",
-        "phone": "+1234567890"
-      }
-    ]
-  },
-  {
-    "title": "Environmental Conservation Group",
-    "link": "https://example.com/environmental-conservation",
-    "description": "Join us in making a positive impact on the environment through various conservation projects and initiatives.",
-    "tags": ["Sophomore", "Junior", "Senior", "Environmental Science", "Open To All", "Monthly", "Free"],
-    "location": "Local Community Center, Anytown, USA",
-    "contact": [
-      {
-        "name": "Jane Doe",
-        "email": "jane@example.com",
-        "phone": "+1098765432"
-      }
-    ]
-  },
-  {
-    "title": "Debate Club",
-    "link": "https://example.com/debate-club",
-    "description": "Develop your public speaking and critical thinking skills by participating in lively debates on various topics.",
-    "tags": ["Freshman", "Sophomore", "Junior", "Senior", "Communication", "Open To All", "Bi-weekly", "Free"],
-    "location": "School Auditorium, Anytown, USA",
-    "contact": [
-      {
-        "name": "Emma Johnson",
-        "email": "emma@example.com",
-        "phone": "+1987654321"
-      }
-    ]
-  },
-  {
-    "title": "Coding Workshop",
-    "link": "https://example.com/coding-workshop",
-    "description": "Learn programming languages and software development techniques in a collaborative and supportive environment.",
-    "tags": ["Sophomore", "Junior", "Senior", "Computer Science", "Open To All", "Weekly", "Paid"],
-    "location": "Online",
-    "contact": [
-      {
-        "name": "Alex Lee",
-        "email": "alex@example.com",
-        "phone": "+1357924680"
-      }
-    ]
-  },
-  {
-    "title": "Community Service Club",
-    "link": "https://example.com/community-service",
-    "description": "Make a difference in your community by volunteering for various service projects and charitable initiatives.",
-    "tags": ["Freshman", "Sophomore", "Junior", "Senior", "Community Service", "Open To All", "Monthly", "Free"],
-    "location": "Local Community Center, Anytown, USA",
-    "contact": [
-      {
-        "name": "Michael Brown",
-        "email": "michael@example.com",
-        "phone": "+2468013579"
-      }
-    ]
-  },
-  {
-    "title": "Art Club",
-    "link": "https://example.com/art-club",
-    "description": "Express yourself creatively through various art mediums and techniques. No prior experience necessary!",
-    "tags": ["Freshman", "Sophomore", "Junior", "Senior", "Art", "Open To All", "Weekly", "Free"],
-    "location": "School Art Studio, Anytown, USA",
-    "contact": [
-      {
-        "name": "Sophia Martinez",
-        "email": "sophia@example.com",
-        "phone": "+3692581470"
-      }
-    ]
-  },
-  {
-    "title": "Chess Club",
-    "link": "https://example.com/chess-club",
-    "description": "Join us for friendly games of chess and improve your strategic thinking and problem-solving skills.",
-    "tags": ["Freshman", "Sophomore", "Junior", "Senior", "Chess", "Open To All", "Bi-weekly", "Free"],
-    "location": "School Library, Anytown, USA",
-    "contact": [
-      {
-        "name": "William Taylor",
-        "email": "william@example.com",
-        "phone": "+7531592640"
-      }
-    ]
-  },
-  {
-    "title": "Music Ensemble",
-    "link": "https://example.com/music-ensemble",
-    "description": "Play music, make friends, and perform at school events with our inclusive music ensemble. All skill levels welcome!",
-    "tags": ["Freshman", "Sophomore", "Junior", "Senior", "Music", "Open To All", "Weekly", "Free"],
-    "location": "School Music Room, Anytown, USA",
-    "contact": [
-      {
-        "name": "Olivia Garcia",
-        "email": "olivia@example.com",
-        "phone": "+8529637410"
-      }
-    ]
-  },
-  {
-    "title": "Film Club",
-    "link": "https://example.com/film-club",
-    "description": "Watch and discuss films from various genres, eras, and cultures with fellow film enthusiasts.",
-    "tags": ["Sophomore", "Junior", "Senior", "Film Studies", "Open To All", "Monthly", "Free"],
-    "location": "School AV Room, Anytown, USA",
-    "contact": [
-      {
-        "name": "Daniel Clark",
-        "email": "daniel@example.com",
-        "phone": "+1472583690"
-      }
-    ]
-  },
-  {
-    "title": "Entrepreneurship Society",
-    "link": "https://example.com/entrepreneurship-society",
-    "description": "Explore the world of entrepreneurship through workshops, guest speakers, and startup challenges.",
-    "tags": ["Junior", "Senior", "Entrepreneurship", "Open To All", "Bi-weekly", "Free"],
-    "location": "School Classroom 203, Anytown, USA",
-    "contact": [
-      {
-        "name": "Sophie Anderson",
-        "email": "sophie@example.com",
-        "phone": "+3691472580"
+        "name": "None",
+        "email": "None",
+        "phone": "None"
       }
     ]
   }
