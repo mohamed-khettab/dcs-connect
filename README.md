@@ -1,15 +1,20 @@
 # dcs-connect
 
-A club finder for all three high schools in Dublin City Schools (Scioto, Jerome, Coffman). Official district website.
+A club finder for all three high schools in Dublin City Schools (Scioto, Jerome, Coffman)
 
-NOTE: The website has not been updated for the 24/25 school year which is why there is placeholder data.
+## Note
+
+**Please note that this project is no longer in use which is why the data has not been updated.**
+
+## Tech Stack
+
+- **Frontend** - React
+- **Backend** - Google Sheet + Google Apps Script (for ease of use by teachers)
+
+## Project Screenshot
 
 <img width="1512" alt="Screenshot" src="https://github.com/user-attachments/assets/9dbd9ee6-bbf3-4d30-b8d9-d0fe1f63c7e5" />
 
-## Contributing
-
-Feel free to contribute by opening an issue or a pull request.
-
 ## License
 
-This project is licensed under the terms of the MIT license.
+MIT
